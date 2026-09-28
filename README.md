@@ -1,162 +1,129 @@
 <div align="center">
 
-# 👋 Hi, I'm Naira Gamal
+<br>
 
-### Full-Stack .NET Developer
+# NAIRA GAMAL
 
-Building **web applications, RESTful APIs, and practical digital solutions** with modern .NET technologies.
+### `FULL-STACK .NET DEVELOPER`
+
+**I build web applications, APIs & digital solutions.**
 
 <br>
 
-<a href="https://github.com/nairagamal">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/naira-gamal/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[ **LinkedIn** ](https://www.linkedin.com/in/naira-gamal/)    **·**    [ **GitHub** ](https://github.com/nairagamal)
+
+<br>
+<br>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<div align="center">
 
-I'm a **Full-Stack .NET Developer** focused on building reliable and maintainable web applications.
+### `01` — ABOUT
 
-My main experience is around **C#, ASP.NET Core, Web APIs, Entity Framework Core, and SQL Server**, while also working with modern frontend technologies to build complete full-stack solutions.
+</div>
 
-I enjoy transforming business requirements into functional systems — from **database design and backend development to frontend integration, authentication, and deployment**.
+I’m a **Full-Stack .NET Developer** focused on building reliable, scalable web applications.
 
----
+My main stack is **C# · ASP.NET Core · SQL Server · Entity Framework Core**, with experience building complete systems from database design and APIs to frontend integration and deployment.
 
-## ⚡ What I Build
-
-```text
-🌐 Full-Stack Web Applications
-🔌 RESTful APIs
-🗄️ Database-Driven Systems
-🔐 Authentication & Authorization
-📊 Admin Dashboards
-🛒 E-Commerce Platforms
-📰 Content Management Systems
-📅 Booking & Management Systems
-```
+I like turning **business requirements → clean architecture → working products.**
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Backend
+### `02` — STACK
 
-<p>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-</p>
+<br>
 
-### Database
+`C#`   `ASP.NET Core`   `.NET 8`   `Web API`
 
-<p>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=.net&logoColor=white" />
-</p>
+`Entity Framework Core`   `SQL Server`   `LINQ`
 
-### Frontend
+`HTML`   `CSS`   `JavaScript`   `Bootstrap`
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-</p>
+`Angular`   `TypeScript`   `Git`   `Postman`   `Swagger`
 
-### Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 📰 NEXA — Professional Digital Magazine
+### `03` — SELECTED WORK
 
-A professional digital magazine platform designed to manage and publish structured content.
+</div>
 
-**Features include:**
+### 📰 NEXA
 
-* Article management
-* Categories & tags
-* Authors
-* Likes & bookmarks
-* Search
-* Content management
-* Admin dashboard
+**Professional Digital Magazine**
 
-**Built with:**
+A content-driven magazine platform designed around structured publishing and content management.
 
-`ASP.NET Core Web API` · `.NET 8` · `Entity Framework Core` · `SQL Server`
+`ASP.NET Core` `NET 8` `EF Core` `SQL Server`
+
+**→** Articles · Categories · Tags · Authors · Likes · Bookmarks · Search · Admin Dashboard
 
 ---
 
-### 🛒 RevampAuto — E-Commerce Platform
+### 🛒 RevampAuto
 
-A full-stack e-commerce system with product management, customer functionality, and an administrative dashboard.
+**E-Commerce Platform**
 
-**Built with:**
+A complete e-commerce solution with product management, customer functionality and an administrative dashboard.
 
-`ASP.NET Core Web API` · `C#` · `SQL Server` · `Entity Framework Core` · `JavaScript` · `Bootstrap`
+`ASP.NET Core Web API` `C#` `SQL Server` `JavaScript`
+
+**→** Products · Authentication · Shopping · Management · Admin Dashboard
 
 ---
 
 ### 🏋️ Elite Personal Training
 
-A booking and management system for personal training services.
+**Booking & Management System**
 
-**Built with:**
+A web-based system for managing personal training services and bookings.
 
-`ASP.NET Core Web API` · `SQL Server` · `HTML` · `CSS` · `Bootstrap` · `JavaScript`
+`ASP.NET Core Web API` `SQL Server` `Bootstrap` `JavaScript`
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nairagamal&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairagamal&layout=compact&hide_border=true" />
-
-</div>
+**→** Booking · Management · API · Database · Admin Dashboard
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/naira-gamal/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/nairagamal">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+### `04` — GITHUB
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=nairagamal&show_icons=true&hide_border=true&rank_icon=github" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nairagamal&hide_border=true" />
+
+</div>
+
+---
+
 <div align="center">
 
-### 💡 Turning ideas into practical digital solutions.
+### `05` — LET'S CONNECT
+
+<br>
+
+**Open to opportunities, collaborations & interesting projects.**
+
+<br>
+
+[ LinkedIn ](https://www.linkedin.com/in/naira-gamal/)    ·    [ GitHub ](https://github.com/nairagamal)
+
+<br>
+<br>
+
+`BUILD • LEARN • SHIP`
 
 </div>
